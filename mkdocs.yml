@@ -1,0 +1,6 @@
+site_name: marias documentation
+site_url: https://mtzanida.github.io
+nav: 
+    - Home: README.md
+theme:
+    name: simple-blog
